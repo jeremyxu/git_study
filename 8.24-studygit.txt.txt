@@ -1,6 +1,0 @@
-now time: 16:15 2013-08-24
-now time: 16:17 2013-08-24
-now time: 16:23 2013-08-24
-now time：16:34 2013-08-24
-now time: 17:06 2013-08-24
-this is the wrong line.
